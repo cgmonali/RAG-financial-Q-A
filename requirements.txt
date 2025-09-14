@@ -1,0 +1,6 @@
+beautifulsoup4
+faiss-cpu
+numpy
+python-dotenv
+openai
+cohere
